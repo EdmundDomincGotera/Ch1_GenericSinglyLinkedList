@@ -1,0 +1,7 @@
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\ComparerSample\bin\Debug\ComparerSample.exe.config
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\ComparerSample\bin\Debug\ComparerSample.exe
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\ComparerSample\bin\Debug\ComparerSample.pdb
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\ComparerSample\obj\Debug\ComparerSample.csproj.CoreCompileInputs.cache
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\ComparerSample\obj\Debug\ComparerSample.exe
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\ComparerSample\obj\Debug\ComparerSample.pdb
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\ComparerSample\obj\Debug\ComparerSample.csprojAssemblyReference.cache

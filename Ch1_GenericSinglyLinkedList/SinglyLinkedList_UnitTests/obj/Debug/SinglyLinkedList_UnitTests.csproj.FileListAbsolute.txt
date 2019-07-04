@@ -1,0 +1,7 @@
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\SinglyLinkedList_UnitTests\bin\Debug\SinglyLinkedList_UnitTests.exe.config
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\SinglyLinkedList_UnitTests\bin\Debug\SinglyLinkedList_UnitTests.exe
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\SinglyLinkedList_UnitTests\bin\Debug\SinglyLinkedList_UnitTests.pdb
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\SinglyLinkedList_UnitTests\obj\Debug\SinglyLinkedList_UnitTests.csprojAssemblyReference.cache
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\SinglyLinkedList_UnitTests\obj\Debug\SinglyLinkedList_UnitTests.csproj.CoreCompileInputs.cache
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\SinglyLinkedList_UnitTests\obj\Debug\SinglyLinkedList_UnitTests.exe
+c:\users\edmgotera\source\repos\Ch1_GenericSinglyLinkedList\SinglyLinkedList_UnitTests\obj\Debug\SinglyLinkedList_UnitTests.pdb

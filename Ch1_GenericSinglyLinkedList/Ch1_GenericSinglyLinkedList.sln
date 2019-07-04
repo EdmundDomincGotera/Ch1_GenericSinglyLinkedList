@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglyLinkedList_UnitTests", "SinglyLinkedList_UnitTests\SinglyLinkedList_UnitTests.csproj", "{99D07312-F868-4A34-93F7-6317C7966E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparerSample", "ComparerSample\ComparerSample.csproj", "{CC6565A4-D44C-42D3-906F-D41603EE58E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch1_SinglyLinkedList_1", "Ch1_SinglyLinkedList_1\Ch1_SinglyLinkedList_1.csproj", "{D67C4693-EB52-4FC5-870E-441027CF4A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch1_GenericSinglyLinkedList", "Ch1_GenericSinglyLinkedList\Ch1_GenericSinglyLinkedList.csproj", "{85D42A6A-F33E-42FB-9B39-4A0447BD0B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSinglyLinkedListTester", "GenericSinglyLinkedListTester\GenericSinglyLinkedListTester.csproj", "{CF1D1793-856B-47A1-BC16-7FD4C94A5D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D07312-F868-4A34-93F7-6317C7966E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D07312-F868-4A34-93F7-6317C7966E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D07312-F868-4A34-93F7-6317C7966E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D07312-F868-4A34-93F7-6317C7966E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6565A4-D44C-42D3-906F-D41603EE58E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6565A4-D44C-42D3-906F-D41603EE58E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6565A4-D44C-42D3-906F-D41603EE58E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6565A4-D44C-42D3-906F-D41603EE58E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67C4693-EB52-4FC5-870E-441027CF4A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67C4693-EB52-4FC5-870E-441027CF4A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67C4693-EB52-4FC5-870E-441027CF4A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67C4693-EB52-4FC5-870E-441027CF4A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D42A6A-F33E-42FB-9B39-4A0447BD0B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D42A6A-F33E-42FB-9B39-4A0447BD0B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D42A6A-F33E-42FB-9B39-4A0447BD0B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D42A6A-F33E-42FB-9B39-4A0447BD0B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1D1793-856B-47A1-BC16-7FD4C94A5D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1D1793-856B-47A1-BC16-7FD4C94A5D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1D1793-856B-47A1-BC16-7FD4C94A5D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1D1793-856B-47A1-BC16-7FD4C94A5D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA80358-53E6-4D78-A217-394D1ECF7260}
+	EndGlobalSection
+EndGlobal
